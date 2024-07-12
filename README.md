@@ -23,7 +23,7 @@ Az adatbázisban a következő entitásokat és attribútumokat tároljuk:
  * Karosszéria típus: karosszéria név
 
 A fenti adatok tárolását az alábbi sémával oldjuk meg:
-![Kep](https://github.com/tnorbert0317/info2-hf/blob/main/HF/schema.png?raw=true "schema")
+![Kep](https://github.com/tnorbert0317/Informatika2-HF/blob/main/HF/schema.png)
 
 ## A működést bemutató videó
 https://www.youtube.com/watch?v=x29nt10YMx8
